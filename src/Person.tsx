@@ -15,11 +15,12 @@ interface Props{
 }
 
 
-//El enum es como cuando se creaba una lista dentro de otra lista con datos; muy importante meterle el export para que en el App.tsx lo podamos implementar
+//El enum es como cuando se creaba una lista dentro de otra lista con datos; muy importante meterle el export para que en el App.tsx lo podamos implementar.
 export enum Country{
     Brazil = "Brazil",
     Canada = "Canada",
     France = "France",
+    Spain = "Spain",
 }
 
 
